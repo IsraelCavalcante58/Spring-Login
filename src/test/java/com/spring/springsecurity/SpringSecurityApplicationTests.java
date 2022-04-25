@@ -1,10 +1,10 @@
-package com.codegate.aula2;
+package com.spring.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Aula2ApplicationTests {
+class SpringSecurityApplicationTests {
 
     @Test
     void contextLoads() {

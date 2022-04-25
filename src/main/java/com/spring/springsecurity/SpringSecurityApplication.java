@@ -1,13 +1,13 @@
-package com.codegate.aula2;
+package com.spring.springsecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Aula2Application {
+public class SpringSecurityApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Aula2Application.class, args);
+        SpringApplication.run(SpringSecurityApplication.class, args);
     }
 
 }
